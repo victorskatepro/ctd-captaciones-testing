@@ -1,0 +1,78 @@
+{
+  "business": {
+    "documentType": "DNI",
+    "documentNumber": "46120780",
+    "name": "E40 CAJA CUSCO S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "03",
+    "description": "PAYMENT_DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "55449896",
+      "depositCurrency": "PEN",
+      "depositAmount": 2302.15,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 3395.55
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "74751368",
+      "depositCurrency": "USD",
+      "depositAmount": 3500.00,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3500.00
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "72724896",
+      "depositCurrency": "PEN",
+      "depositAmount": 2560.15,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 2560.15
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE2016598",
+      "depositCurrency": "USD",
+      "depositAmount": 6541.00,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 6541.00
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PZ8965422",
+      "depositCurrency": "PEN",
+      "depositAmount": 5400.00,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 5400.00
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "50501144",
+      "depositCurrency": "USD",
+      "depositAmount": 1500.05,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 1500.05
+    },
+    {
+
+      "rowNumber": 6,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE4785682",
+      "depositCurrency": "PEN",
+      "depositAmount": 1500.05,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 1500.05
+    }
+  ]
+}

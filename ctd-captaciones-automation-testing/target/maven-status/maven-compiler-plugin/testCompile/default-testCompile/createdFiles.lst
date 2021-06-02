@@ -1,0 +1,8 @@
+com\everis\captaciones\CucumberTestSuite.class
+com\everis\captaciones\stepDefinitions\TypeRegistryConfiguration.class
+com\everis\captaciones\steps\ApiTokenRuletaMillonariaSteps.class
+com\everis\captaciones\stepDefinitions\ApiValidacionYConfirmacionSD.class
+com\everis\captaciones\stepDefinitions\TypeRegistryConfiguration$1.class
+com\everis\captaciones\stepDefinitions\ApiTokenRuletaMillonariaSD.class
+com\everis\captaciones\steps\RuletaStep.class
+com\everis\captaciones\steps\ApiValidacionYConfirmacionSteps.class

@@ -1,0 +1,68 @@
+{
+  "business": {
+    "documentType": "DNI",
+    "documentNumber": "49730593",
+    "name": "E42 CAJA AREQUIPA S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "03",
+    "description": "PAYMENT_DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "47481593",
+      "depositCurrency": "USD",
+      "depositAmount": 2302.15,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3395.55
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "06432189",
+      "depositCurrency": "PEN",
+      "depositAmount": 3500.00,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 3500.00
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE5408965",
+      "depositCurrency": "PEN",
+      "depositAmount": 2560.15,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 2560.15
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PAS4789350",
+      "depositCurrency": "USD",
+      "depositAmount": 6541.00,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 6541.00
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "454125863",
+      "depositCurrency": "USD",
+      "depositAmount": 5400.00,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 5400.00
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE47924S1",
+      "depositCurrency": "PEN",
+      "depositAmount": 1500.05,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 1500.05
+    }
+  ]
+}

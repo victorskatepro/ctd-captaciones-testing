@@ -1,0 +1,68 @@
+{
+  "business": {
+    "documentType": "DNI",
+    "documentNumber": "46110783",
+    "name": "E28 TECH MAHINDRA S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "02",
+    "description": "PAYMENT"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "10726588",
+      "depositCurrency": "USD",
+      "depositAmount": 12300.05,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE2021687",
+      "depositCurrency": "PEN",
+      "depositAmount": 12300.05,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PZ8141523",
+      "depositCurrency": "PEN",
+      "depositAmount": 3600.90,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PYA489516",
+      "depositCurrency": "USD",
+      "depositAmount": 3500.00,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    } ,
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "41414862",
+      "depositCurrency": "PEN",
+      "depositAmount": 1300.05,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE784291",
+      "depositCurrency": "USD",
+      "depositAmount": 12300.05,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    }
+  ]
+}

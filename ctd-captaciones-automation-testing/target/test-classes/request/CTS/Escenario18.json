@@ -1,0 +1,63 @@
+{
+  "business": {
+    "documentType": "RUC",
+    "documentNumber": "20534341858",
+    "name": "E18 CARPINTERIA MANUEL S.A.C"
+  },
+  "term": "052021",
+  "process": {
+    "type": "02",
+    "description": "PAYMENT"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00701265",
+      "depositCurrency": "USD",
+      "depositAmount": 1300.85
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00701415",
+      "depositCurrency": "USD",
+      "depositAmount": 6000.00
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "41000008",
+      "depositCurrency": "USD",
+      "depositAmount": 2300.05
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "071118672",
+      "depositCurrency": "USD",
+      "depositAmount": 6500.08
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "A1234564",
+      "depositCurrency": "USD",
+      "depositAmount": 4100.07
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PAS00001023",
+      "depositCurrency": "USD",
+      "depositAmount": 6800.82
+    },
+    {
+      "rowNumber": 6,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PAS00000010",
+      "depositCurrency": "USD",
+      "depositAmount": 2000.42
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "business": {
+    "documentType": "DNI",
+    "documentNumber": "41709017",
+    "name": "E14 SUPERMECADOS SAGA FALABELLA S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "01",
+    "description": "DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"76263650" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 3500.78
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"76263640" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 5900.78
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber":"P96306359" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 900.78
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber":"CE969280" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 3900.78
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber":"CE969270" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3500.78
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber":"P96306359" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3500.78
+    }
+  ]
+}

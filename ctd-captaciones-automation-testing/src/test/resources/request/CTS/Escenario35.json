@@ -1,0 +1,86 @@
+{
+  "business": {
+    "documentType": "RUC",
+    "documentNumber": "20100075009",
+    "name": "E35 CONSORCIO ATC S.A.C"
+  },
+  "term": "052021",
+  "process": {
+    "type": "03",
+    "description": "PAYMENT_DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00100008",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 1100.05,
+      "depositCurrency": "USD",
+      "depositAmount": 1252.15
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00203849",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 1700.05,
+      "depositCurrency": "PEN",
+      "depositAmount": 1592.15
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00781256",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 1050.05,
+      "depositCurrency": "PEN",
+      "depositAmount": 3302.15
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE575301",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 2380.00,
+      "depositCurrency": "USD",
+      "depositAmount": 1002.15
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "42874841",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 2380.00,
+      "depositCurrency": "USD",
+      "depositAmount": 1002.15
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "485753CE",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 4080.00,
+      "depositCurrency": "USD",
+      "depositAmount": 3902.15
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PAS00000008",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 280.00,
+      "depositCurrency": "USD",
+      "depositAmount": 1902.15
+    },
+    {
+      "rowNumber": 6,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "32AJ3AJ3232",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 2780.00,
+      "depositCurrency": "PEN",
+      "depositAmount": 14902.15
+    }
+  ]
+}

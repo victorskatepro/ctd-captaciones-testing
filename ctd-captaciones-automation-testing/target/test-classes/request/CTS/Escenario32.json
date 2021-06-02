@@ -1,0 +1,77 @@
+{
+  "business": {
+    "documentType": "RUC",
+    "documentNumber": "20534341858",
+    "name": "E32 MUEBLES A S.A.C"
+  },
+  "term": "052021",
+  "process": {
+    "type": "03",
+    "description": "PAYMENT_DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00701258",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 2400.05,
+      "depositCurrency": "USD",
+      "depositAmount": 4002.15
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "41000008",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 7400.05,
+      "depositCurrency": "USD",
+      "depositAmount": 1002.15
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "41202011",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 1750.05,
+      "depositCurrency": "USD",
+      "depositAmount": 8302.15
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "EX000040",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 2380.00,
+      "depositCurrency": "USD",
+      "depositAmount": 1002.15
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "2402044F",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 4080.00,
+      "depositCurrency": "USD",
+      "depositAmount": 3902.15
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PAS00000008",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 280.00,
+      "depositCurrency": "USD",
+      "depositAmount": 1902.15
+    },
+    {
+      "rowNumber": 6,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PAS00007008",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 2780.00,
+      "depositCurrency": "USD",
+      "depositAmount": 14902.15
+    }
+  ]
+}

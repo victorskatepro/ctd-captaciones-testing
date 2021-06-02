@@ -1,0 +1,68 @@
+{
+  "business": {
+    "documentType": "DNI",
+    "documentNumber": "46110782",
+    "name": "E27 EVOL S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "02",
+    "description": "PAYMENT"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "50649860",
+      "depositCurrency": "USD",
+      "depositAmount": 12300.05,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE1063111",
+      "depositCurrency": "PEN",
+      "depositAmount": 12300.05,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PK8049822",
+      "depositCurrency": "PEN",
+      "depositAmount": 3600.90,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PQY909812",
+      "depositCurrency": "USD",
+      "depositAmount": 3500.00,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    } ,
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "77429610",
+      "depositCurrency": "PEN",
+      "depositAmount": 1300.05,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE226530",
+      "depositCurrency": "USD",
+      "depositAmount": 12300.05,
+      "intangibleCurrency": "",
+      "intangibleAmount": 0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "business": {
+    "documentType": "RUC",
+    "documentNumber": "20604751854",
+    "name": "E15 CORPORACION OTM S.A.C"
+  },
+  "term": "052021",
+  "process": {
+    "type": "02",
+    "description": "PAYMENT"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00014949",
+      "depositCurrency": "PEN",
+      "depositAmount": 2700.05
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "02028379",
+      "depositCurrency": "PEN",
+      "depositAmount": 2900.05
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "24691380",
+      "depositCurrency": "PEN",
+      "depositAmount": 2400.05
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "006665778",
+      "depositCurrency": "PEN",
+      "depositAmount": 2500.05
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "006665778",
+      "depositCurrency": "PEN",
+      "depositAmount": 1000.05
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "00687877654",
+      "depositCurrency": "PEN",
+      "depositAmount": 2500.05
+    }
+  ]
+}

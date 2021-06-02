@@ -1,0 +1,63 @@
+{
+  "business": {
+    "documentType": "RUC",
+    "documentNumber": "20100075009",
+    "name": "E04 NATURA COSMETICOS S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "01",
+    "description": "DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"00100008" ,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3500.78
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"00150079" ,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 2300.05
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"12541253" ,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3900.00
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"19000056" ,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3100.00
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber":"CE575301" ,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3579.78
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber":"PSP526309" ,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3579.78
+    },
+    {
+      "rowNumber": 6,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber":"4857PF99" ,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3579.78
+    }
+  ]
+}

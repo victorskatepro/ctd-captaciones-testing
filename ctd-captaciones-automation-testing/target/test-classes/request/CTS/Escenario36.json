@@ -1,0 +1,59 @@
+{
+  "business": {
+    "documentType": "DNI",
+    "documentNumber": "46110779",
+    "name": "E36 SAPIA S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "03",
+    "description": "PAYMENT_DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "31649842",
+      "depositCurrency": "PEN",
+      "depositAmount": 1922.0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 1222.0
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "40040124",
+      "depositCurrency": "PEN",
+      "depositAmount": 4579.0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 4679.0
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "71000087",
+      "depositCurrency": "PEN",
+      "depositAmount": 3579.0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 4679.0
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "CE1128912",
+      "depositCurrency": "PEN",
+      "depositAmount": 2000.0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 2000.0
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PZ4159521",
+      "depositCurrency": "PEN",
+      "depositAmount": 2000.0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 2000.0
+    }
+  ]
+}

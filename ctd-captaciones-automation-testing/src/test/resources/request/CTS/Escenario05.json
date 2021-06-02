@@ -1,0 +1,77 @@
+{
+  "business": {
+    "documentType": "RUC",
+    "documentNumber": "20331066703",
+    "name": "E05 MAKRO S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "01",
+    "description": "DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "79710014",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 2395.55
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "75078229",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 4532.55
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00203849",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 4379.0
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "50000022",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 1500.05
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "485733CE",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 1222.00
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "415773CE",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 12563.00
+    },
+    {
+      "rowNumber": 6,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PAS09000021",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 6622.00
+    },
+    {
+      "rowNumber": 7,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PAS00200021",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 1234.00
+    },
+    {
+      "rowNumber": 8,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "PSP226309",
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 4222.00
+    }
+  ]
+}

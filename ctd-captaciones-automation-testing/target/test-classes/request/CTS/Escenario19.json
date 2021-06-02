@@ -1,0 +1,63 @@
+{
+  "business": {
+    "documentType": "RUC",
+    "documentNumber": "20360893775",
+    "name": "E19 VIDRIERIA GALAXIA S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "02",
+    "description": "PAYMENT"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "70346715",
+      "depositCurrency": "PEN",
+      "depositAmount": 500.85
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00781415",
+      "depositCurrency": "USD",
+      "depositAmount": 6000.00
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "71814038",
+      "depositCurrency": "USD",
+      "depositAmount": 8300.05
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "I00557784",
+      "depositCurrency": "PEN",
+      "depositAmount": 6500.08
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber": "A1834564",
+      "depositCurrency": "PEN",
+      "depositAmount": 3100.07
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "AA31567565",
+      "depositCurrency": "PEN",
+      "depositAmount": 3400.82
+    },
+    {
+      "rowNumber": 6,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "00684679561",
+      "depositCurrency": "USD",
+      "depositAmount": 5000.42
+    }
+  ]
+}

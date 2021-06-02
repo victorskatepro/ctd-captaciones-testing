@@ -1,0 +1,50 @@
+{
+  "business": {
+    "documentType": "RUC",
+    "documentNumber": "20100053455",
+    "name": "E29 BAZAR LUCERO S.A.C"
+  },
+  "term": "052021",
+  "process": {
+    "type": "03",
+    "description": "PAYMENT_DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "00100012",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 1500.05,
+      "depositCurrency": "PEN",
+      "depositAmount": 2302.15
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "03370139",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 2800.05,
+      "depositCurrency": "PEN",
+      "depositAmount": 2302.15
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber": "12345678",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 1850.05,
+      "depositCurrency": "PEN",
+      "depositAmount": 2302.15
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber": "LT20012309",
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 260.00,
+      "depositCurrency": "PEN",
+      "depositAmount": 2302.15
+    }
+  ]
+}

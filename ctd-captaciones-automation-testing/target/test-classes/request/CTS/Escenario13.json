@@ -1,0 +1,95 @@
+{
+  "business": {
+    "documentType": "DNI",
+    "documentNumber": "41709016",
+    "name": "E13 SUPERMECADOS MEGA PLAZA S.A"
+  },
+  "term": "052021",
+  "process": {
+    "type": "01",
+    "description": "DECLARATION"
+  },
+  "rows": [
+    {
+      "rowNumber": 0,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"09630630" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3500.78
+    },
+    {
+      "rowNumber": 1,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"09630640" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 5900.78
+    },
+    {
+      "rowNumber": 2,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber":"CE630699" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 900.78
+    },
+    {
+      "rowNumber": 3,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber":"P96306365" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3900.78
+    },
+    {
+      "rowNumber": 4,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber":"Z96306311" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3500.78
+    },
+    {
+      "rowNumber": 5,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber":"CE539274" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 3500.78
+    },
+    {
+      "rowNumber": 6,
+      "employeeDocumentType": "DNI",
+      "employeeDocumentNumber":"06263690" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3500.78
+    },
+    {
+      "rowNumber": 7,
+      "employeeDocumentType": "PASSPORT",
+      "employeeDocumentNumber":"Z96306333" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "USD",
+      "intangibleAmount": 3500.78
+    },
+    {
+      "rowNumber": 8,
+      "employeeDocumentType": "CE",
+      "employeeDocumentNumber":"CE788699" ,
+      "depositCurrency": "",
+      "depositAmount": 0,
+      "intangibleCurrency": "PEN",
+      "intangibleAmount": 3500.78
+    }
+  ]
+}
